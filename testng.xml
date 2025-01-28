@@ -5,6 +5,7 @@
     <!-- Define the classes to be executed -->
     <classes>
       <class name="Test.First"/>
+        <class name="Test.two"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
